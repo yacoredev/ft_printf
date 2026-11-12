@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by yabaadi*
+*This project has been created as part of the 42 curriculum by yabaadi*.
 
 # ft_printf
 
@@ -110,7 +110,6 @@ A `va_list` is used to access the additional arguments passed to the variadic fu
 - **Linux man-pages:** https://man7.org/linux/man-pages/man3/printf.3.html
 - **Variadic functions:** https://www.youtube.com/watch?v=3iX9a_l9W9Y
 
-> [!TIP]
 > **AI Usage**
 >
 > I used AI to clarify C concepts, understand variadic functions, review function specifications, and identify potential edge cases. I wrote, debugged, and tested the implementation myself
